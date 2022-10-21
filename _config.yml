@@ -4,17 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
-title: JusticeHui가 PS하는 블로그
+title: LemoNade's Programming Blog
 subtitle:
 description:
-author: JusticeHui
+author: LemoNade2000
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: ko
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://justiceHui.github.io'
+url: 'https://lemonade.github.io'
 baseurl: '/'
 permalink: pretty
 timezone: 
@@ -234,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://avatars3.githubusercontent.com/u/20872857?s=460&u=5f07ac108384e9a63e14269828aaa7a27fa84647&v=4
+avatar: 
 
 
 # Table Of Contents in the Sidebar
@@ -382,12 +382,11 @@ han: false
 # Disqus
 disqus:
   enable: false
-  shortname: justiceHui
+  shortname: Nade
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
-
 # <wildfire>
 wildfire:
   enable: false
