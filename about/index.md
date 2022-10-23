@@ -4,6 +4,11 @@ type: about
 title: "About Me"
 ---
 
+### Personal
+
+* Name : Hyungmin Lim
+* E-mail : hlimac@connect.ust.hk
+
 ### Education
 * Hong Kong University of Science and Technology
   * **(18.08-Current) BSc in Data Science and Technology, BSc in Computer Science**
