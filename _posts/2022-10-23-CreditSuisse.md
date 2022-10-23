@@ -2,6 +2,7 @@
 title: "2022 Credit Suisse Global Coding Challenge Problems / Solutions"
 date: 2022-10-23 16:00:00
 categories:
+-editorial
 tags:
 ---
 ### About the challenge
