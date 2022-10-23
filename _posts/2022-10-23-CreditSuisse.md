@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-### About the challenge
+## About the challenge
 Credit Suisse hosted a algorithm contest again this year. 
 This was my first time participating in this particular competition, and there were some aspects that the contest differed from other competitions.
 
@@ -22,7 +22,7 @@ I recommend it for people who are just getting into the competitive programming,
 
 In this post, I'll try to go through my approaches in each problems, and by no means it is a exhaustive editorial of the contest. If there are any inconsistencies, please let me know and I'll try to fix it.
 
-### 1. Banker and Stocks (Easy)
+## Banker and Stocks (Easy)
 
 #### My Thoughts
 
@@ -71,7 +71,7 @@ int main(){
 }
 ```
 
-### 2. File Reorganization (Easy)
+## File Reorganization (Easy)
 
 #### My thoughts
 
@@ -117,7 +117,7 @@ int main(){
 }
 ```
 
-### 3. Sorting Share Prices (Easy)
+## Sorting Share Prices (Easy)
 
 #### My Thoughts
 
@@ -161,7 +161,7 @@ int main(){
 }
 ```
 
-### 4. Time Intervals (Medium)
+## Time Intervals (Medium)
 
 #### My Thoughts
 
@@ -265,7 +265,7 @@ int main(){
 }
 ```
 
-### Machine Learning Model Manager Program (Medium)
+## Machine Learning Model Manager Program (Medium)
 
 #### My Thoughts
 
@@ -317,7 +317,7 @@ int main(){
 }
 ```
 
-### Reporting System (Medium)
+## Reporting System (Medium)
 
 #### My Thoughts
 
@@ -402,7 +402,7 @@ int main(){
 }
 ```
 
-### Fraudulent Transactions (Hard)
+## Fraudulent Transactions (Hard)
 
 #### My Thoughts
 
@@ -483,7 +483,7 @@ int main(){
 }
 ```
 
-### Risk Mitigation (Hard)
+## Risk Mitigation (Hard)
 
 #### My Thoughts
 
@@ -646,7 +646,7 @@ int main(){
 }
 ```
 
-### Minimum Cost to Decrypt Matrix (Hard)
+## Minimum Cost to Decrypt Matrix (Hard)
 
 *** Second question that took me majority of the time for the contest, and probably the hardest question in the contest. ***
 
