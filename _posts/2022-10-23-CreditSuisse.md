@@ -5,6 +5,7 @@ categories:
 - editorial
 tags:
 ---
+
 ### About the challenge
 Credit Suisse hosted a algorithm contest again this year. 
 This was my first time participating in this particular competition, and there were some aspects that the contest differed from other competitions.
@@ -13,7 +14,7 @@ There are total 9 problems that you have to solve, 3 for each difficulties of ea
 
 It runs for more than two weeks, so you have more than enough time to tackle every problem, and try to optimize it. I spent about a week tackling problems, then rest was about optimizing the runtime.
 
-![Leaderboard](https://github.com/LemoNade2000/lemonade2000.github.io/blob/master/_posts/Let'sGo.PNG)
+![Leaderboard](./CS.png)
 
 There were 1690 contestants this year, about 200 from SEA. I was placed 30th in the global leaderboard, and 8th in SEA. Also I was first among contestants from my school :)
 
