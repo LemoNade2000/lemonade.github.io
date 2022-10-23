@@ -270,9 +270,7 @@ int main(){
 #### My Thoughts
 
 First problem that utilizes an algorithm following an observation!
-
 For this problem, you are given a sequence of integers. Then, you have to find all subsequence such that the sum of subsequence do not exceed a threshhold number, M. For example, if you are given M = 10 and {5, 4, 9, 7, 6}, then your combinations can be |{5}, {4}, {9}, {7}, {6}, {5, 4}| = 6.
-
 For this problem, I used prefix sum to keep track of sums up until k-th element. Then, since there are no negative elements, what I had to do was find the smallest j where prefixSum[k] - prefixSum[j] < M. First, I thought about doing a binary search to find this smallest j. About a day later, I came up with two-pointer strategy for this problem. The observation that you have to make is that the sequence of j_1, j_2, ... , j_N is a increasing sequence. Thus, you can set one pointer as your k, and one as your j, and check through all prefix sum. Essentially, this becomes a O(N) problem.
 
 #### Entire Code
