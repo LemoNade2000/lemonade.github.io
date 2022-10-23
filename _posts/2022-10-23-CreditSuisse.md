@@ -14,7 +14,7 @@ It runs for more than two weeks, so you have more than enough time to tackle eve
 
 There were 1690 contestants this year, about 200 from SEA. I was placed 30th in the global leaderboard, and 8th in SEA. Also I was first among contestants from my school :)
 
-I recommend it for people who are just getting into the competitive programming scene, or problem solving (just like me!), since the difficulties in solving the problems are quite lenient compared to other well-known competitions.
+I recommend it for people who are just getting into the competitive programming, or problem solving (just like me!), since the difficulties in solving the problems are quite lenient compared to other well-known competitions.
 
 In this post, I'll try to go through my approaches in each problems, and by no means it is a exhaustive editorial of the contest. If there are any inconsistencies, please let me know and I'll try to fix it.
 
