@@ -1,6 +1,8 @@
 ---
-title:  "2022 Credit Suisse Global Coding Challenge Problems / Solutions"
-date:   2022-10-23 16:00:00
+title: "2022 Credit Suisse Global Coding Challenge Problems / Solutions"
+date: 2022-10-23 16:00:00
+categories:
+tags:
 ---
 ### About the challenge
 Credit Suisse hosted a algorithm contest again this year. 
